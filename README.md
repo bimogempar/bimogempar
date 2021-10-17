@@ -1,4 +1,4 @@
-## HAHAHA BE NICE TO EVERYONE DEAR🍺
+## HAHAHA BE NICE TO EVERYONE DEAR 🍺
 
 ![Alt Text](https://c.tenor.com/Y-RLVlpltLUAAAAj/stitch-grimace.gif)
 

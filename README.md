@@ -7,6 +7,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bimogempar@gmail.com)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimogempar&border_color=b8b8b8&title_color=ffff&text_color=ffff&bg_color=00000000&layout=compact)](https://github.com/bimogempar/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimogempar&border_color=b8b8b8&title_color=ffff&text_color=ffff&bg_color=00000000&layout=compact)](https://github.com/bimogempar/github-readme-stats) -->
 
 ![](https://komarev.com/ghpvc/?username=bimogempar&label=Views)

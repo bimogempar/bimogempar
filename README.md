@@ -1,7 +1,7 @@
 ## HAHAHA BE NICE TO EVERYONE DEAR 🍺
 
 
-![Alt Text](https://i.gifer.com/3vIU.gif)
+![Alt Text](https://i.pinimg.com/originals/d9/67/73/d967736e0810a41b5740dfa640d3ed8c.gif)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bimogempar/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/bimogempar/)

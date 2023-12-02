@@ -1,7 +1,7 @@
 ## HAHAHA BE NICE TO EVERYONE DEAR 🍺
 
 
-![Alt Text](https://seeklogo.com/images/S/stitch-stuff-logo-B53724DC64-seeklogo.com.png)
+![Alt Text](https://i.pinimg.com/originals/4b/4e/a7/4b4ea7b7724a7fa38d2e5f351f0d5539.gif)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bimogempar/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/bimogempar/)

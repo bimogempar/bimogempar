@@ -9,4 +9,4 @@ const PageIndex = () => {
     )
 }
 
-export default PageIndex
+export default PageIndex;

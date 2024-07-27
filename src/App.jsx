@@ -1,9 +1,9 @@
 import React from 'react';
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
-import IndexPage from './pages';
+import PageIndex from './pages/PageIndex';
 
 const router = createBrowserRouter([
-    { path: '/', element: <IndexPage /> }
+    { path: '/', element: <PageIndex /> }
 ]);
 
 const App = () => {

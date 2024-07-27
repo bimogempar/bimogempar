@@ -1,14 +1,14 @@
 import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 
-const PageTitle = ({ title }) => {
+const PageTitle = ({ title, children }) => {
     const location = useLocation();
 
     useEffect(() => {
         document.title = title + ' | bimogempar';
     }, [location, title]);
 
-    return null;
+    return children;
 }
 
 export default PageTitle;

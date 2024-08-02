@@ -1,11 +1,11 @@
 import React from 'react'
-import PageTitle from '../components/PageTitle'
 import MainLayout from '../components/MainLayout';
 import { DiscussionEmbed } from 'disqus-react';
+import HeadTitle from '../components/HeadTitle';
 
 const PageIndex = () => {
     return (
-        <PageTitle title='home'>
+        <HeadTitle title='home'>
             <MainLayout>
                 <>
                     <p className="text-2xl">hello, im bimogempar 🐍😬🤪🌸</p>
@@ -20,7 +20,7 @@ const PageIndex = () => {
                     }}
                 />
             </MainLayout>
-        </PageTitle>
+        </HeadTitle>
     )
 }
 

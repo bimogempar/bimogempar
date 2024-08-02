@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 
-const PageTitle = ({ title, children }) => {
+const HeadTitle = ({ title, children }) => {
     const location = useLocation();
 
     useEffect(() => {
@@ -11,4 +11,4 @@ const PageTitle = ({ title, children }) => {
     return children;
 }
 
-export default PageTitle;
+export default HeadTitle;
